@@ -10,7 +10,7 @@
         <p> especially when they EXPLODE!!!!!! </p>
         <p> is alway happy to blow stuff up</p>
         <P> for the right price...</P>
-        <h2> learn abut Klee</h2>
+        <h2> learn about Klee</h2>
         <P> Klee is a young knight who lives in the town of Mondstat.</P>
     </body>
 </html>    
